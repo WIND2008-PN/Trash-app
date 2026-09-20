@@ -1,0 +1,6 @@
+{
+  "name": "Trash Content Safe World",
+  "description": "Gamified civic movement turning 'trash content' into positive environmental action with AI Companion Agir, Edge-CV waste scanning, safe-space feed, and ESG dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

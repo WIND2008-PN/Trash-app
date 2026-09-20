@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Agir Mascot: Head Capsule -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C41.8,26 32,35.8 32,48 C32,60.2 41.8,70 54,70 C66.2,70 76,60.2 76,48 C76,35.8 66.2,26 54,26 Z" />
+    <!-- Agir Face Visor -->
+    <path
+        android:fillColor="#064E3B"
+        android:pathData="M54,34 C44.5,34 37,39.5 37,47.5 C37,55.5 44.5,61 54,61 C63.5,61 71,55.5 71,47.5 C71,39.5 63.5,34 54,34 Z" />
+    <!-- Agir Eyes -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M46,45 A3,3.5 0 1 0 46,52 A3,3.5 0 1 0 46,45 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M62,45 A3,3.5 0 1 0 62,52 A3,3.5 0 1 0 62,45 Z" />
+    <!-- Sprout Antennas -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,27 C54,22 59,18 64,19 C64,24 59,27 54,27 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,27 C54,22 49,18 44,19 C44,24 49,27 54,27 Z" />
+    <!-- Eco Sprout Heart Badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,66 C51,69 42,75 42,81 C42,85 45,88 49,88 C52,88 54,85 54,85 C54,85 56,88 59,88 C63,88 66,85 66,81 C66,75 57,69 54,66 Z" />
+</vector>
